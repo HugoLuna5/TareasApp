@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tareas App</string>
+    <string name="delete_all">Elimar todo</string>
+    <string name="completed">COMPLETADA</string>
+    <string name="desc">Descripcion</string>
+    <string name="info">Información</string>
+    <string name="hint_name">Nombre </string>
+    <string name="hint_description">Descripción</string>
+    <string name="incomplete">INCOMPLETA</string>
+
+    <string name="title_alert_dialog">Eliminar tarea</string>
+    <string name="message_alert_dialog">¿Realmente desea eliminar esta tarea? Esta acción es irreversible.</string>
+
+    <string name="title_alert_dialog_all">Eliminar todas las tareas</string>
+    <string name="message_alert_dialog_all">¿Realmente desea eliminar todas las tareas? Esta acción es irreversible.</string>
+
+    <string name="button_positive">Aceptar</string>
+    <string name="button_negative">Cancelar</string>
+
+    <string name="text_name">Nombre de la tarea: </string>
+    <string name="text_description">Descripción de la tarea: </string>
+    <string name="status_task">Estado de la tarea</string>
+
+
+</resources>
